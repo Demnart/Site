@@ -1,0 +1,24 @@
+html,body{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	min-height: 100%;
+	width: 1034px;
+	
+	margin: 0  auto;
+}
+#header{
+	height: 288px;
+	width: 100%;
+	background-image: url(img/header.jpg);
+}
+#logotype{
+	position: relative;
+	top: 38px;
+	left: 44px;
+	bottom: 181px;
+	right: 784px;
+}
